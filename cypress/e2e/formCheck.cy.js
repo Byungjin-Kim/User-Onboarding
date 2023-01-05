@@ -1,5 +1,5 @@
 // write tests here
-describe("Quotes App", () => {
+describe("Check My Form App", () => {
     beforeEach (() => {
         // Each test needs fresh state!
         // Tests shouldn't rely on other tests - it should be independent. so you do not want one test to affect the outcome of another one.
